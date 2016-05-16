@@ -14,6 +14,12 @@
 		3C9CA2F01CE9BA9A00CAFC83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA2EE1CE9BA9A00CAFC83 /* LaunchScreen.storyboard */; };
 		3C9CA2FB1CE9BA9A00CAFC83 /* revGuideBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9CA2FA1CE9BA9A00CAFC83 /* revGuideBookTests.swift */; };
 		3C9CA3061CE9BA9A00CAFC83 /* revGuideBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9CA3051CE9BA9A00CAFC83 /* revGuideBookUITests.swift */; };
+		3C9CA3141CE9BB2C00CAFC83 /* place.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA3131CE9BB2C00CAFC83 /* place.plist */; };
+		3C9CA3161CE9BB6000CAFC83 /* detailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9CA3151CE9BB6000CAFC83 /* detailVC.swift */; };
+		3C9CA3191CEA593B00CAFC83 /* dvd.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA3171CEA593B00CAFC83 /* dvd.png */; };
+		3C9CA31A1CEA593B00CAFC83 /* 360.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA3181CEA593B00CAFC83 /* 360.png */; };
+		3C9CA31D1CEA5B0800CAFC83 /* gaisano.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA31B1CEA5B0800CAFC83 /* gaisano.png */; };
+		3C9CA31E1CEA5B0800CAFC83 /* chinabank.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CA31C1CEA5B0800CAFC83 /* chinabank.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		3C9CA3011CE9BA9A00CAFC83 /* revGuideBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = revGuideBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9CA3051CE9BA9A00CAFC83 /* revGuideBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = revGuideBookUITests.swift; sourceTree = "<group>"; };
 		3C9CA3071CE9BA9A00CAFC83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C9CA3131CE9BB2C00CAFC83 /* place.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = place.plist; sourceTree = "<group>"; };
+		3C9CA3151CE9BB6000CAFC83 /* detailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = detailVC.swift; sourceTree = "<group>"; };
+		3C9CA3171CEA593B00CAFC83 /* dvd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dvd.png; sourceTree = "<group>"; };
+		3C9CA3181CEA593B00CAFC83 /* 360.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 360.png; sourceTree = "<group>"; };
+		3C9CA31B1CEA5B0800CAFC83 /* gaisano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gaisano.png; sourceTree = "<group>"; };
+		3C9CA31C1CEA5B0800CAFC83 /* chinabank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chinabank.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +111,16 @@
 			children = (
 				3C9CA2E51CE9BA9A00CAFC83 /* AppDelegate.swift */,
 				3C9CA2E71CE9BA9A00CAFC83 /* ViewController.swift */,
+				3C9CA3151CE9BB6000CAFC83 /* detailVC.swift */,
 				3C9CA2E91CE9BA9A00CAFC83 /* Main.storyboard */,
 				3C9CA2EC1CE9BA9A00CAFC83 /* Assets.xcassets */,
 				3C9CA2EE1CE9BA9A00CAFC83 /* LaunchScreen.storyboard */,
 				3C9CA2F11CE9BA9A00CAFC83 /* Info.plist */,
+				3C9CA3131CE9BB2C00CAFC83 /* place.plist */,
+				3C9CA3171CEA593B00CAFC83 /* dvd.png */,
+				3C9CA3181CEA593B00CAFC83 /* 360.png */,
+				3C9CA31B1CEA5B0800CAFC83 /* gaisano.png */,
+				3C9CA31C1CEA5B0800CAFC83 /* chinabank.png */,
 			);
 			path = revGuideBook;
 			sourceTree = "<group>";
@@ -232,9 +250,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C9CA3191CEA593B00CAFC83 /* dvd.png in Resources */,
 				3C9CA2F01CE9BA9A00CAFC83 /* LaunchScreen.storyboard in Resources */,
 				3C9CA2ED1CE9BA9A00CAFC83 /* Assets.xcassets in Resources */,
+				3C9CA31D1CEA5B0800CAFC83 /* gaisano.png in Resources */,
+				3C9CA31A1CEA593B00CAFC83 /* 360.png in Resources */,
+				3C9CA3141CE9BB2C00CAFC83 /* place.plist in Resources */,
 				3C9CA2EB1CE9BA9A00CAFC83 /* Main.storyboard in Resources */,
+				3C9CA31E1CEA5B0800CAFC83 /* chinabank.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C9CA3161CE9BB6000CAFC83 /* detailVC.swift in Sources */,
 				3C9CA2E81CE9BA9A00CAFC83 /* ViewController.swift in Sources */,
 				3C9CA2E61CE9BA9A00CAFC83 /* AppDelegate.swift in Sources */,
 			);

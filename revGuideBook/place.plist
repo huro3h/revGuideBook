@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ガイサノカントリーモール</key>
+	<dict>
+		<key>lat</key>
+		<string>10.339544</string>
+		<key>lng</key>
+		<string>123.910992</string>
+		<key>image</key>
+		<string>gaisano.png</string>
+		<key>description</key>
+		<string>規模はJYモールの2倍強。地下1階、地上3階建で衣料品の取り扱いが豊富。各種レストラン、映画館、ゲームセンターなどが併設されている。</string>
+	</dict>
+	<key>China bank (IT Park)</key>
+	<dict>
+		<key>lat</key>
+		<string>10.327241</string>
+		<key>lng</key>
+		<string>123.906405</string>
+		<key>image</key>
+		<string>chinabank.png</string>
+		<key>description</key>
+		<string>IT Parkの正面ゲートをくぐって、すぐ右手に見える赤い銀行。ここのATMは現金が全て500peso札で出てくる。1000peso札が使いづらいと感じる人に特にオススメ。</string>
+	</dict>
+	<key>(店名不明) 海賊版DVD屋さん</key>
+	<dict>
+		<key>lat</key>
+		<string>10.328365</string>
+		<key>lng</key>
+		<string>123.903953</string>
+		<key>image</key>
+		<string>dvd.png</string>
+		<key>description</key>
+		<string>法的に触れる為あまり大きく書けないが、コピー版映画DVDを売っているお店。価格は平置きしているDVDが1枚35php 3枚買うと100php 壁にかかっているDVDが1枚20php。最近の映画も取り揃えており、種類もそこそこだが、英語字幕すらない商品がある為、店内のDVDデッキで確認してから買いましょう。</string>
+	</dict>
+	<key>360 Pharmacy (La Guardia St)</key>
+	<dict>
+		<key>lat</key>
+		<string>10.328955</string>
+		<key>lng</key>
+		<string>123.90295</string>
+		<key>image</key>
+		<string>360.png</string>
+		<key>description</key>
+		<string>Threesixty Pharmacy La Guardia St店。Flat2から一番近くにある小規模ドラッグストア 規模が小さい為、品数は少なめだが朝7時から夜11まで開いており、緊急で必要になった物などが気軽に買える。値段も安め。ただし朝は7時15分前後にオープンする為、7時ちょうどに行くと待ち時間が発生します、ご注意。</string>
+	</dict>
+</dict>
+</plist>
